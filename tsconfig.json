@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./build",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "lib": ["ES2021.String"]
+  },
+  "include": ["src"]
+}
